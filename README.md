@@ -1,4 +1,9 @@
-REST API SDK for SMS
+# DEPRECATIED 
+This project have movded to https://github.com/sinch/sinch-java-sms
+
+
+# DEPRECATIED 
+REST API SDK for SMS 
 ====================
 
 This is the Java SDK for the CLX Communications REST API (also called
